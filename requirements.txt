@@ -1,0 +1,7 @@
+#gym[all]
+gym[box2d]
+numpy
+scipy
+pyglet==1.5.11
+PyOpenGL
+box2d-py
